@@ -1,0 +1,4 @@
+# Ignore project
+**/.classpath
+**/.project
+**/bin
